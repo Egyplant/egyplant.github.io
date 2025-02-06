@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest_game=self.webpackChunktest_game||[]).push([[162],{2162:(e,s,t)=>{t.r(s),t(4732),t(6312),t(5753),t(8928),t(5285),t(9305),t(6958),t(6607),t(9147),t(8723),t(7252),t(4980)}}]);
